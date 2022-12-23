@@ -32,8 +32,26 @@ Previous experience with: Site Reliability Engineering, Monitoring, Cloud native
   <img alt="prometheus" src="https://raw.githubusercontent.com/cncf/artwork/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="52" height="52">
   <img alt="thanos" src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="52" height="52">
   <img alt="elasticsearch" src="https://gist.githubusercontent.com/fsschmitt/bcc84df15bd1ec4dca8b6ec171f89d41/raw/elasticsearch.svg" width="52" height="52">
+  <img alt="microsoft-sql-server" src="https://landscape.cncf.io/logos/microsoft-sql-server.svg" width="52" height="52">
+  <img alt="mongodb" src="https://landscape.cncf.io/logos/mongo-db.svg" width="52" height="52">
+  <img alt="splunk" src="https://landscape.cncf.io/logos/splunk.svg" width="52" height="52">
+   <img alt="my-sql" src="https://landscape.cncf.io/logos/my-sql.svg" width="52" height="52">
+   <img alt="redis" src="https://landscape.cncf.io/logos/redis.svg" width="52" height="52">
+   <img alt="rabbit" src="https://landscape.cncf.io/logos/rabbit-mq.svg" width="52" height="52">
+   <img alt="jenkins" src="https://landscape.cncf.io/logos/jenkins.svg" width="52" height="52">
+   <img alt="team-city" src="https://landscape.cncf.io/logos/team-city.svg" width="52" height="52">
+   <img alt="ha-proxy" src="https://landscape.cncf.io/logos/ha-proxy.svg" width="52" height="52">
+   <img alt="consul" src="https://landscape.cncf.io/logos/consul.svg" width="52" height="52">
+   <img alt="puppetlabs" src="https://landscape.cncf.io/logos/puppetlabs-kubernetes.svg" width="52" height="52">
+   <img alt="minikube" src="https://landscape.cncf.io/logos/minikube.svg" width="52" height="52">
+   <img alt="dynatrace" src="https://landscape.cncf.io/logos/dynatrace.svg" width="52" height="52">
+   <img alt="datadog" src="https://landscape.cncf.io/logos/datadog.svg" width="52" height="52">
+   <img alt="nagios" src="https://landscape.cncf.io/logos/nagios.svg" width="52" height="52">
+   <img alt="azure-functions" src="https://landscape.cncf.io/logos/azure-functions.svg" width="52" height="52">
+   <img alt="git-hub-actions" src="https://landscape.cd.foundation/logos/git-hub-actions.svg" width="52" height="52">
           
 </div>
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=fredfrazao)
 
