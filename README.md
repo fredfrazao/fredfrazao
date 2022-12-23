@@ -55,9 +55,3 @@ Previous experience with: Site Reliability Engineering, Monitoring, Cloud native
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=fredfrazao)
 
-
-
-
-
-
-Readme.md
