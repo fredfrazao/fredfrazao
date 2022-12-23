@@ -1,13 +1,14 @@
 ### Hi there, I'm [Frederico Frazão](https://www.linkedin.com/in/fredericofrazao/) 👋
 
+I’m currently working on Cloud native, Kubernetes, Infrastructure and Automation
+
+Previous experience with: Site Reliability Engineering, Monitoring, Cloud native, Kubernetes, Helm,Docker, AWS, Azure, GCP, On-prem, Hybrid-clouds, CI/CD, GitHub Actions 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fredericofrazao/)
 
 [![fredfrazao GitHub stats](https://github-readme-stats.vercel.app/api?username=fredfrazao)](https://github.com/anuraghazra/github-readme-stats)
 
-I’m currently working on Cloud native, Kubernetes, Infrastructure and Automation
 
-Previous experience with: Site Reliability Engineering, Monitoring, Cloud native, Kubernetes, Helm,Docker, AWS, Azure, GCP, On-prem, Hybrid-clouds, CI/CD, GitHub Actions 
 
 #### Infrastructure
 <div align="left">
