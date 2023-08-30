@@ -2,7 +2,7 @@
 
 I’m currently working on Cloud native, Kubernetes, Infrastructure and Automation
 
-Previous experience with: Site Reliability Engineering, Monitoring, Cloud native, Kubernetes, Helm,Docker, AWS, Azure, GCP, On-prem, Hybrid-clouds, CI/CD, GitHub Actions 
+Previous experience with: Site Reliability Engineering, Monitoring, Cloud native, Kubernetes, Helm,Docker, Azure, GCP, On-prem, Hybrid-clouds, CI/CD, GitHub Actions 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fredericofrazao/)
 
