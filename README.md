@@ -36,7 +36,7 @@ Previous experience with: Site Reliability Engineering, Monitoring, Cloud native
   <img alt="microsoft-sql-server" src="https://landscape.cncf.io/logos/microsoft-sql-server.svg" width="52" height="52">
   <img alt="mongodb" src="https://landscape.cncf.io/logos/mongo-db.svg" width="52" height="52">
   <img alt="splunk" src="https://landscape.cncf.io/logos/splunk.svg" width="52" height="52">
-   <img alt="my-sql" src="https://landscape.cncf.io/logos/my-sql.svg" width="52" height="52">
+   <img alt="my-sql" src="https://landscape.cncf.io/logos/3aeabe51f00910c39904fa1b2e5ff3f3cf57eae439c0efe869236cc14831e8b1.svg" width="52" height="52">
    <img alt="redis" src="https://landscape.cncf.io/logos/redis.svg" width="52" height="52">
    <img alt="rabbit" src="https://landscape.cncf.io/logos/rabbit-mq.svg" width="52" height="52">
    <img alt="jenkins" src="https://landscape.cncf.io/logos/jenkins.svg" width="52" height="52">
