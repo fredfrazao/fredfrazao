@@ -45,12 +45,11 @@ Previous experience with: Site Reliability Engineering, Monitoring, Cloud native
    <img alt="consul" src="https://landscape.cncf.io/logos/d48fa97c1041a775a6af93cb656de6bd95e46d0dcd253b8e9b56a67d73350f36.svg" width="52" height="52">
    <img alt="puppetlabs" src="https://landscape.cncf.io/logos/a6133c47fdf8f39c09a2316d090bf2ffbb646166a8f476d8ef16c2e2b7e3eb93.svg" width="52" height="52">
    <img alt="minikube" src="https://landscape.cncf.io/logos/08197429358a0aa89567795a9b6e8fe346de5b02cd926a7432896ef840433458.svg" width="52" height="52">
-   <img alt="dynatrace" src="https://landscape.cncf.io/logos/dynatrace.svg" width="52" height="52">
+   <img alt="dynatrace" src="hhttps://landscape.cncf.io/logos/b5b8b3d3fb68c6450c082d02a7b585f9333fc2504cd0c2ed01f408960f3c4bc2.svg" width="52" height="52">
    <img alt="datadog" src="https://landscape.cncf.io/logos/c98bfb5203e97c5ac45ccbfdb80344d795f0858bd9dcebfef7c4a589d856fdd2.svg" width="52" height="52">
    <img alt="nagios" src="https://landscape.cncf.io/logos/e2506dfbb21e3a671620931471b38b6a85652d0ef1e2d568056b3963beed9c61.svg" width="52" height="52">
    <img alt="azure-functions" src="https://landscape.cncf.io/logos/9d9cbc5e07e17f6c93b50847a1d183d35157cc7b10b929c644a1b4923d1ff3d5.svg" width="52" height="52">
    <img alt="git-hub-actions" src="https://landscape.cncf.io/logos/cc62c9a15e8ccf85618038073bffefe196c2d0daceb2ea39b7a766eafc451836.svg" width="52" height="52">
-   <img alt="ansible" src="https://landscape.cncf.io/logos/ef7870b35b4aef059b17bb97531ac3e80655bd8b4f24451d4200e07013790b07.svg" width="52" height="52">
           
 </div>
 
